@@ -16,3 +16,10 @@
 # Modules & Fields:
 # ● Create/Edit Contact: name, email, phone number, address, username, ID
 # ● List Users: Name, email, address, phone number, username
+
+#APIs to use
+#● User list - https://jsonplaceholder.typicode.com/users/
+#● User details - https://jsonplaceholder.typicode.com/users/1
+#● Create User (POST) - https://jsonplaceholder.typicode.com/users/
+#● Update User (PUT) - https://jsonplaceholder.typicode.com/users/1
+#● Delete User: (DELETE) - https://jsonplaceholder.typicode.com/users/1
